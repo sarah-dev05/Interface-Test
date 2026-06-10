@@ -197,3 +197,4 @@ Si vous souhaitez avec un rapport de couverture de code plus détaillé, vous po
 ```
 
 Mais encore faut-il que votre machine dispose de Java JDK 17.
+TP4 - Vérification de la couverture de code avec Jacoco
